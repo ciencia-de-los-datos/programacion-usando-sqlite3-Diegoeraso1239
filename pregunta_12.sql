@@ -42,3 +42,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+SELECT K0, min(c12), MIN(c12) FROM tbl1 GROUP BY K0
